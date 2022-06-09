@@ -1,0 +1,14 @@
+Script started on 2022-06-09 16:26:35-04:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="120" LINES="30"]
+]0;root@Principium: /mnt/d/Downlaods/supkam/Grade Calculator Assignmentroot@Principium:/mnt/d/Downlaods/supkam/Grade Calculator Assignment# javac GradeCalculator.java 
+]0;root@Principium: /mnt/d/Downlaods/supkam/Grade Calculator Assignmentroot@Principium:/mnt/d/Downlaods/supkam/Grade Calculator Assignment# java GradeCalculator.[K
+Please enter your grade for Homework > 15
+Please enter your grade for Code Lab > 15
+Please enter your grade for Midterm 1 > 20
+Please enter your grade for Midterm 2 > 20
+Please enter your grade for the final exam > 30
+
+The total score is 100.
+]0;root@Principium: /mnt/d/Downlaods/supkam/Grade Calculator Assignmentroot@Principium:/mnt/d/Downlaods/supkam/Grade Calculator Assignment# exit
+exit
+
+Script done on 2022-06-09 16:26:54-04:00 [COMMAND_EXIT_CODE="0"]
